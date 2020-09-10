@@ -1,0 +1,26 @@
+
+/* button */
+input.btn {
+  background-color: navy;
+  border:1px solid   navy;
+}
+
+input.btn:hover {
+  background-color: navy;
+  border:1px solid   navy;
+  opacity:0.4;
+}
+.btn-primary{
+  background-color: navy;
+  border:1px solid   navy;
+}
+
+.btn-primary:hover {
+  background-color: navy;
+  border:1px solid   navy;
+  opacity:0.4;
+}
+.card-body{
+  background-color: rgba(202, 199, 167, 0.459);
+  border:1px solid rgba(202, 199, 167, 0.616);
+}
